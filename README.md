@@ -11,13 +11,15 @@ In silico design for Project 'CatchEater'. A modular, tag-less quality-control (
 
 ---
 
-### 1. Project Idea & Motivation (The "Real Need")
+### 1. The Real Need
 
 Large-scale protein production is chronically undermined by "Type-2 cheater" cells. These cells mutate to produce truncated or misfolded "junk" proteins. This is disastrous for two reasons:
 1.  **They are toxic:** They trigger severe **proteotoxic stress**, consuming the cell's machinery.
 2.  **They are fast:** They outgrow the "good" cells, causing the entire production batch to crash.
 
 Current solutions are flawed. "Tag-based" systems require fusing tags to the protein, which violates the need for a pristine, tag-less product. "Transcript-linked" systems are "blind" to this failure, as the cheater cell *does* make the mRNA.
+
+---
 
 ### 2. Our Solution: A Self-Policing Cellular Chassis
 
@@ -31,6 +33,8 @@ It is built on three core components:
 2.  **An Irreversible "Kill Latch":** A "cheater" cell (high stress, no antidote) activates a genomic **`flp` recombinase** (the Actuator). This Flp flips a permanent DNA switch (**`FRT-toxin-FRT`**), activating a lethal **`mazF` toxin** and irreversibly committing the cell to death.
 3.  **A "Save" Signal (The Certificate):** Good cells are protected. The **`tetR` Antidote** gene is **translationally coupled** to the target protein's authentic stop codon. Only ribosomes that *finish* the protein can also make the Antidote. This `tetR` protein then binds to and *suppresses* the genomic kill-gate, granting the cell immunity.
 
+---
+
 ### 3. How it Works: Kill vs. Save (The "Demo")
 
 This is the core logic of our system.
@@ -42,6 +46,8 @@ This is the core logic of our system.
 #### **Scenario B: The "Good Producer" (IS SAVED)**
 
 Ribosome completes protein ↓ "Certificate" is issued (Translational Coupling) ↓ tetR Antidote is produced ↓ Genomic Gate (P_hybrid) = OFF (Suppressed by Antidote) ↓ CELL LIVES
+
+---
 
 ### 4. Repository Guide (Our "Designed Work")
 
@@ -68,6 +74,8 @@ This repository contains the complete "proof of work" and "designed work" for ou
 
 * `📁 5_Presentation/`
     * Contains our final 5-minute video presentation and the slide deck used to create it.
+
+---
 
 ### 5. The Team
 
