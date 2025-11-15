@@ -5,7 +5,7 @@ In silico design for Project 'CatchEater'. A modular, tag-less quality-control (
   <img src="LOGO-3.png" alt="LOGO" width="400" height="400">
 </p>
 
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 80px;">
   🎥 <strong>5-Minute Pitch Video:</strong> <a href="https://your-video-link.com">Link to your video presentation</a>
 </p>
 
