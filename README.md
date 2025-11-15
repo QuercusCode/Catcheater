@@ -2,7 +2,7 @@
 In silico design for Project 'CatchEater'. A modular, tag-less quality-control (QC) system for E. coli to eliminate 'cheater' cells during protein production.
 
 <p align="center">
-  <img src="LOGO-3.png" alt="LOGO" width="1000" height="1000">
+  <img src="LOGO-3.png" alt="LOGO" width="1200" height="1200">
 </p>
 
 ### 🎥 5-Minute Pitch Video: [Link to your video presentation]
