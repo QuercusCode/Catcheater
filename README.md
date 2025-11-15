@@ -69,6 +69,7 @@ This repository contains the complete "proof of work" and "designed work" for ou
 
 ### 5. The Team
 
-* [Your Name / Role]
-* [Teammate Name / Role]
-* [Teammate Name / Role]
+* AmirMohammad Cheraghali - Sorbonne Université
+* Sogand Azadeh - Université Paris Cité
+* AmirMahdi Karambakhsh - Université Paris-Saclay
+* Fatemeh Sadat Mortazavi - Université Paris-Saclay
