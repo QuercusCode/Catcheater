@@ -49,7 +49,16 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 
 ---
 
-### 4. Repository Guide (Our "Designed Work")
+### 4. The Team
+
+* AmirMohammad Cheraghali (Synthetic Biology and AI) - Sorbonne Université
+* Sogand Azadeh (Genetics and Epigenetics) - Université Paris Cité
+* AmirMahdi Karambakhsh (Systems and Synthetic Biology) - Université Paris-Saclay
+* Fatemeh Sadat Mortazavi (Systems and Synthetic Biology) - Université Paris-Saclay
+
+---
+
+### 5. Repository Guide (Our "Designed Work")
 
 This repository contains the complete "proof of work" and "designed work" for our hackathon submission.
 
