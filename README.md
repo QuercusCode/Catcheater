@@ -50,25 +50,6 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 ---
 
 ### 4. The Team
-<p align="center">
-  <img src="images/AmirMohammad_Cheraghali.png" alt="LOGO" width="200" height="200">
-</p>
-<p align="center">
-  AmirMohammad Cheraghali (Synthetic Biology and AI) - Sorbonne Université
-</p>
-
-
-
-<p align="center">
-  <img src="images/Sogand_Azadeh.png" alt="LOGO" width="200" height="200">
-</p>
-<p align="center">
-  Sogand Azadeh (Genetics and Epigenetics) - Université Paris Cité
-</p>
-
-
-
-### 4. The Team
 
 <table align="center" cellspacing="0" cellpadding="0">
  
@@ -114,27 +95,6 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
   
 
 </table>
-
-
-
-
-
-
-<p align="center">
-  <img src="images/AmirMahdi_Karambakhsh.png" alt="LOGO" width="200" height="200">
-</p>
-<p align="center">
-  AmirMahdi Karambakhsh (Systems and Synthetic Biology) - Université Paris-Saclay
-</p>
-
-
-
-<p align="center">
-  <img src="images/FatemehSadat_Mortazavi.png" alt="LOGO" width="200" height="200">
-</p>
-<p align="center">
-  Fatemeh Sadat Mortazavi (Systems and Synthetic Biology) - Université Paris-Saclay
-</p>
 
 
 ---
