@@ -58,53 +58,6 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
       <img src="images/AmirMohammad_Cheraghali.png" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <strong>AmirMohammad Cheraghali</strong><br>
-      (Synthetic Biology and AI) - Sorbonne Université
-    </td>
-  </tr>
- 
-  <tr>
-    <td width="200" align="center">
-      <img src="images/Sogand_Azadeh.png" alt="Sogand Azadeh" width="150" height="150" style="border-radius:50%">
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <strong>Sogand Azadeh</strong><br>
-      (Genetics and Epigenetics) - Université Paris Cité
-    </td>
-  </tr>
-
-  <tr>
-    <td width="200" align="center">
-      <img src="images/AmirMahdi_Karambakhsh.png" alt="AmirMahdi Karambakhsh" width="150" height="150" style="border-radius:50%">
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <strong>AmirMahdi Karambakhsh</strong><br>
-      (Systems and Synthetic Biology) - Université Paris-Saclay
-    </td>
-  </tr>
-
-  <tr>
-    <td width="200" align="center">
-      <img src="images/FatemehSadat_Mortazavi.png" alt="Fatemeh Sadat Mortazavi" width="150" height="150" style="border-radius:50%">
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <strong>Fatemeh Sadat Mortazavi</strong><br>
-      (Systems and Synthetic Biology) - Université Paris-Saclay
-    </td>
-  </tr>
-  
-
-</table>
-
----
-
-<table align="center" cellspacing="0" cellpadding="0">
- 
-  <tr>
-    <td width="200" align="center">
-      <img src="images/AmirMohammad_Cheraghali.png" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
       <strong><a href="www.linkedin.com/in/amir-m-cheraghali-195b23207">AmirMohammad Cheraghali</a></strong><br>
       (Synthetic Biology and AI) - Sorbonne Université
     </td>
