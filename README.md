@@ -92,6 +92,27 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
     </td>
   </tr>
 
+  <tr>
+    <td width="200" align="center">
+      <img src="images/AmirMahdi_Karambakhsh.png" alt="AmirMahdi Karambakhsh" width="150" height="150" style="border-radius:50%">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <strong>AmirMahdi Karambakhsh</strong><br>
+      (Systems and Synthetic Biology) - Université Paris-Saclay
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200" align="center">
+      <img src="images/FatemehSadat_Mortazavi.png" alt="Fatemeh Sadat Mortazavi" width="150" height="150" style="border-radius:50%">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <strong>Fatemeh Sadat Mortazavi</strong><br>
+      (Systems and Synthetic Biology) - Université Paris-Saclay
+    </td>
+  </tr>
+  
+
 </table>
 
 
