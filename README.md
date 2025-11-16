@@ -23,7 +23,7 @@ Current solutions are flawed. "Tag-based" systems require fusing tags to the pro
 
 ### 2. Our Solution: A Self-Policing Cellular Chassis
 
-Project "CatchEater" is a complete *in silico* design for a modular, tag-less quality-control (QC) "chassis" built in *E. coli*.
+Project "Catcheater" is a complete *in silico* design for a modular, tag-less quality-control (QC) "chassis" built in *E. coli*.
 
 Our system hijacks the cell's native stress pathways to execute a "kill" decision, while a novel **"translation-completion certificate"** protects the good, productive cells.
 
@@ -51,7 +51,7 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 
 ### 4. The Team
 
-* AmirMohammad Cheraghali (Synthetic Biology and AI) - Sorbonne Université
+* AmirMohammad Cheraghali (Synthetic Biology and AI) - Sorbonne Université 
 * Sogand Azadeh (Genetics and Epigenetics) - Université Paris Cité
 * AmirMahdi Karambakhsh (Systems and Synthetic Biology) - Université Paris-Saclay
 * Fatemeh Sadat Mortazavi (Systems and Synthetic Biology) - Université Paris-Saclay
