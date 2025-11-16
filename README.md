@@ -51,7 +51,8 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 
 ### 4. The Team
 <p align="center">
-  AmirMohammad Cheraghali (Synthetic Biology and AI) - Sorbonne Université
+  AmirMohammad Cheraghali (Synthetic Biology and AI) <br> 
+  - Sorbonne Université <img src="images/AmirMohammad_Cheraghali.png" alt="LOGO" width="200" height="200">
 </p>
 <p align="center">
   <img src="images/AmirMohammad_Cheraghali.png" alt="LOGO" width="200" height="200">
