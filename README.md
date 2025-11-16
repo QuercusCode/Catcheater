@@ -96,5 +96,50 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 
 </table>
 
+---
+
+<table align="center" cellspacing="0" cellpadding="0">
+ 
+  <tr>
+    <td width="200" align="center">
+      <img src="images/AmirMohammad_Cheraghali.png" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <strong><a href="www.linkedin.com/in/amir-m-cheraghali-195b23207">AmirMohammad Cheraghali</a></strong><br>
+      (Synthetic Biology and AI) - Sorbonne Université
+    </td>
+  </tr>
+ 
+  <tr>
+    <td width="200" align="center">
+      <img src="images/Sogand_Azadeh.png" alt="Sogand Azadeh" width="150" height="150" style="border-radius:50%">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <strong><a href="https://www.linkedin.com/in/sogand-azadeh/">Sogand Azadeh</a></strong><br>
+      (Genetics and Epigenetics) - Université Paris Cité
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200" align="center">
+      <img src="images/AmirMahdi_Karambakhsh.png" alt="AmirMahdi Karambakhsh" width="150" height="150" style="border-radius:50%">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <strong><a href="https://www.linkedin.com/in/karambakhsha/">AmirMahdi Karambakhsh</a></strong><br>
+      (Systems and Synthetic Biology) - Université Paris-Saclay
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200" align="center">
+      <img src="images/FatemehSadat_Mortazavi.png" alt="Fatemeh Sadat Mortazavi" width="150" height="150" style="border-radius:50%">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <strong><a href="https://www.linkedin.com/in/fatemehsadat-mortazavi-39a889244/">Fatemeh Sadat Mortazavi</a></strong><br>
+      (Systems and Synthetic Biology) - Université Paris-Saclay
+    </td>
+  </tr>
+  
+</table>
 
 ---
