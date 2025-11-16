@@ -65,12 +65,12 @@ This repository contains the complete "proof of work" and "designed work" for ou
     * **Part Sequences:** A file detailing the specific genetic parts (`P_hybrid`, `flp(ssrA)`, `tetR`, `mazF`, etc.).
 
 * `📁 3_Protocols/`
-    * The "clear direction towards PoC" as requested by the hackathon.
+    * The "clear direction towards PoC".
     * **`Chassis_Construction.md`:** A tailored protocol for the **CRISPR-Cas9** engineering workflow to build the chassis.
     * **`Proof_Of_Concept_Test.md`:** The full protocol for our (non-lethal) PoC experiment, which replaces the `mazF` toxin with a **GFP reporter** to validate the logic.
 
 * `📁 4_Modeling/`
-    * The *in silico* validation plan. This details the key parameters (`Ks`, `θ_latch`, `a`) for the ODE (Ordinary Differential Equation) model described in WP1.
+    * The *in silico* validation plan. This details the key parameters (`Ks`, `θ_latch`, `a`) for the ODE (Ordinary Differential Equation) model.
 
 * `📁 5_Presentation/`
     * Contains our final 5-minute video presentation and the slide deck used to create it.
