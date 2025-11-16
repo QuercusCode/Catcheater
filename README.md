@@ -35,17 +35,17 @@ It is built on three core components:
 
 ---
 
-### 3. How it Works: Kill vs. Save (The "Demo")
+### 3. How it Works: Kill vs. Save
 
 This is the core logic of our system.
 
 #### **Scenario A: The "Type-2 Cheater" (IS KILLED)**
 
-(Stress is HIGH) + (Production is ON) + (Antidote is ABSENT) ↓ Genomic Gate (P_hybrid) = ON ↓ flp(ssrA) Actuator is produced ↓ mazF Latch is FLIPPED ↓ CELL DIES
+(Stress is HIGH) + (Production is ON) + (Antidote is ABSENT) → Genomic Gate (P_hybrid) = ON → flp(ssrA) Actuator is produced → mazF Latch is FLIPPED → ***CELL DIES***
 
 #### **Scenario B: The "Good Producer" (IS SAVED)**
 
-Ribosome completes protein ↓ "Certificate" is issued (Translational Coupling) ↓ tetR Antidote is produced ↓ Genomic Gate (P_hybrid) = OFF (Suppressed by Antidote) ↓ CELL LIVES
+Ribosome completes protein → "Certificate" is issued (Translational Coupling) → tetR Antidote is produced → Genomic Gate (P_hybrid) = OFF (Suppressed by Antidote) → ***CELL LIVES***
 
 ---
 
