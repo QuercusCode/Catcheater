@@ -83,12 +83,3 @@ This repository contains the complete "proof of work" and "designed work" for ou
 
 * `📁 5_Presentation/`
     * Contains our final 5-minute video presentation and the slide deck used to create it.
-
----
-
-### 5. The Team
-
-* AmirMohammad Cheraghali - Sorbonne Université
-* Sogand Azadeh - Université Paris Cité
-* AmirMahdi Karambakhsh - Université Paris-Saclay
-* Fatemeh Sadat Mortazavi - Université Paris-Saclay
