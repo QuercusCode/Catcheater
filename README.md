@@ -55,7 +55,7 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
  
   <tr>
     <td width="200" align="center">
-      <img src="https://github.com/user-attachments/assets/97f0db1f-f18c-4b1f-82e0-8d11af7b31c5" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
+      <img src="https://github.com/user-attachments/assets/8f559f2f-a795-4b73-a88c-0d008ba4daeb" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <strong><a href="https://www.linkedin.com/in/amir-m-cheraghali-195b23207/">AmirMohammad Cheraghali</a></strong><br>
@@ -65,7 +65,7 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
  
   <tr>
     <td width="200" align="center">
-      <img src="images/Sogand_Azadeh.png" alt="Sogand Azadeh" width="150" height="150" style="border-radius:50%">
+      <img src="https://github.com/user-attachments/assets/f17b4ab7-b080-4568-a5c1-b54b79d7fdf0" alt="Sogand Azadeh" width="150" height="150" style="border-radius:50%">
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <strong><a href="https://www.linkedin.com/in/sogand-azadeh/">Sogand Azadeh</a></strong><br>
@@ -75,7 +75,7 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 
   <tr>
     <td width="200" align="center">
-      <img src="images/AmirMahdi_Karambakhsh.png" alt="AmirMahdi Karambakhsh" width="150" height="150" style="border-radius:50%">
+      <img src="https://github.com/user-attachments/assets/97f0db1f-f18c-4b1f-82e0-8d11af7b31c5" alt="AmirMahdi Karambakhsh" width="150" height="150" style="border-radius:50%">
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <strong><a href="https://www.linkedin.com/in/karambakhsha/">AmirMahdi Karambakhsh</a></strong><br>
@@ -85,7 +85,7 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
 
   <tr>
     <td width="200" align="center">
-      <img src="images/FatemehSadat_Mortazavi.png" alt="Fatemeh Sadat Mortazavi" width="150" height="150" style="border-radius:50%">
+      <img src="https://github.com/user-attachments/assets/831f35be-a3e7-4e3b-81b6-673bb0a4e160" alt="Fatemeh Sadat Mortazavi" width="150" height="150" style="border-radius:50%">
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <strong><a href="https://www.linkedin.com/in/fatemehsadat-mortazavi-39a889244/">Fatemeh Sadat Mortazavi</a></strong><br>
