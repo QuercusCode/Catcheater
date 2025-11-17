@@ -55,7 +55,7 @@ Ribosome completes protein → "Certificate" is issued (Translational Coupling) 
  
   <tr>
     <td width="200" align="center">
-      <img src="images/AmirMohammad_Cheraghali.png" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
+      <img src="https://github.com/user-attachments/assets/97f0db1f-f18c-4b1f-82e0-8d11af7b31c5" alt="AmirMohammad Cheraghali" width="150" height="150" style="border-radius:50%">
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <strong><a href="https://www.linkedin.com/in/amir-m-cheraghali-195b23207/">AmirMohammad Cheraghali</a></strong><br>
