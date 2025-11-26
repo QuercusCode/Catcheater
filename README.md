@@ -4,12 +4,17 @@
 
 ---
 
+<div align="center">
+
 # Catcheater
+
 In silico design for Project 'Catcheater'. A modular, tag-less quality-control (QC) system for *E. coli* to eliminate 'cheater' cells during protein production.
 
 ### [CatcheaterWeb](https://quercuscode.github.io/Catcheaterweb/)
 
-### 🎥 [5-Minute Pitch Video](https://drive.google.com/file/d/13TghXCWw8tjhXYNhB8or2Pou_nXmR0zS/view?usp=drive_link)
+### [🎥 5-Minute Pitch Video](https://drive.google.com/file/d/13TghXCWw8tjhXYNhB8or2Pou_nXmR0zS/view?usp=drive_link)
+
+</div>
 
 ---
 
